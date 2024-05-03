@@ -1,4 +1,5 @@
 **Project 1 Group 1**
+![graduation-caps-air-blue-sky](https://github.com/trjb17/project-1/assets/162597320/8e67586b-bde8-43f5-8e39-591a2cb7bc1b)
 
 Jorge Torres, Kristopher Melton, Krissina Wells, Angelica Sandel, Trevor Sandoval
 
