@@ -1,15 +1,12 @@
-# project-1
-A shared repo for first project
-
-
-**DIPLOMAS & DETOURS**
+#**DIPLOMAS & DETOURS**
+#project-1
 
 - An Analysis of Graduation and Dropout Trends
 
   By: Angelica Sandel, Jorge Torres, Krissy Wells, Kristopher Melton, and Trevor Sandoval
 
 
- **Data Description**
+# **Data Description**
 
  STEP 1
 
@@ -17,14 +14,14 @@ We will analyze educational records from a local adult charter high school to vi
 
 STEP 2
 
-**Datasets to be utilized:**
+#**Datasets to be utilized:**
 
 - Skyward Student database (de-identified data provided to protect student information)
 
 - OpenWeather API
 
 
-**Assignment Overview**
+#**Assignment Overview**
 
  RESEARCH QUESTIONS TO ANSWER
 
@@ -43,7 +40,7 @@ Question 3
 - How does weather impact graduation rates and dropout rates?
 
 
-**Data Cleaning**
+#**Data Cleaning**
 
  Step 1: Import Data
 
@@ -62,7 +59,7 @@ Step 4:  Recode and Categorize
 Convert 'Drop Out Withdraw Reason' to categorized labels using regex mappings
 
 
-**Data Analysis Methods**
+#**Data Analysis Methods**
 
 
  Time Series Analysis: 
@@ -76,7 +73,7 @@ We visually explored and analyzed data to discover patterns, trends, and relatio
 The techniques such as pie charts, scatter plots, and box plots to gain insights into the dataset's structure and characteristics.
 
 
-**Conclusion**
+#**Conclusion**
 
 - Gender Disparities
 
@@ -86,7 +83,7 @@ The techniques such as pie charts, scatter plots, and box plots to gain insights
 
 - Impact of External Factors
 
-**RESOURCES:**
+#**RESOURCES:**
 
   The resources used to complete this prject are as follows:
 
