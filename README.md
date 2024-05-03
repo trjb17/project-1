@@ -9,7 +9,7 @@ A shared repo for first project
   By: Angelica Sandel, Jorge Torres, Krissy Wells, Kristopher Melton, and Trevor Sandoval
 
 
- ** Data Description**
+ **Data Description**
 
  STEP 1
 
