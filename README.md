@@ -9,7 +9,9 @@ Jorge Torres, Kristopher Melton, Krissina Wells, Angelica Sandel, Trevor Sandova
 
 
 **Project Description:**
+
 •	We will analyze educational records from a local adult charter high school to view trends in graduation and dropout rates across different factors.  
+
 
 
 **Research Questions to Answer:** 
@@ -21,17 +23,21 @@ Jorge Torres, Kristopher Melton, Krissina Wells, Angelica Sandel, Trevor Sandova
 •	How does weather impact graduate rates and dropout rates?
 
 
+
 **Datasets to Be Used:**
 
 •	Skyward Student database
 
 •	Open Weather API
 
+
+
 **Data Analysis Methods used:** 
 
 • Time Series Analysis
 
 • Exploratory Data Analysis
+
 
 
 **Rough Breakdown of Tasks:**
