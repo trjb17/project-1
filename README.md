@@ -8,13 +8,16 @@ Written and Prepared by: Jorge Torres, Kristopher Melton, Krissina Wells, Angeli
 
 **Team Members**: Jorge Torres, Kristopher Melton, Krissina Wells, Angelica Sandel, Trevor Sandoval
 
+**Presentation Slide Deck:** https://docs.google.com/presentation/d/1Hmx4B37Kf_qU_2d_xxbEvlFaEzh5tergWCtZsd_oecc/edit?usp=sharing
+
+
 **Project Description:**
 
 •	We analyzed data from a local tuition free charter high school based in Austin, Texas. The school serves adult learners ranging in age from 18 years old to 50 years old and has been the only TEA authorized school to provide a high school diploma to adults beyond 26 years old for the last 10 years. A problem the school faces is a high dropout rate compared to graduates and total students enrolled per school year. 
 
 
 
-**Research Questions to Answer:** 
+**Research Questions and Conclusions:** 
 
 •	What trends are present in graduation and dropout rates based on demographics?
   
@@ -37,7 +40,7 @@ Written and Prepared by: Jorge Torres, Kristopher Melton, Krissina Wells, Angeli
 
 
 
-**Datasets to Be Used:**
+**Datasets Used:**
 
 •	Skyward Student database (de-identified data provided to protect student information and abide by FERPA regulations)
 
@@ -66,4 +69,16 @@ Written and Prepared by: Jorge Torres, Kristopher Melton, Krissina Wells, Angeli
 •	Trevor: presentation organization, overview of analysis
 
 
-Presentation: https://docs.google.com/presentation/d/1Hmx4B37Kf_qU_2d_xxbEvlFaEzh5tergWCtZsd_oecc/edit?usp=sharing
+**Resources Used:**
+
+- Chat GPT 3.5
+
+- Google Search
+
+- Stack Overflow
+
+- Skyward Student Database (de-identified student data to protect student data) 
+
+- Open Weather API
+
+
