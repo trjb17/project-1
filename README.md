@@ -60,6 +60,24 @@ Analysis Conclusion:
 • Exploratory Data Analysis: We visually explored and analyzed data to discover patterns, trends, and relationships. The techniques such as pie charts, scatter plots, and box plots to gain insights into the dataset's structure and characteristics.
 
 
+**SUMMARY ANALYSIS & TAKEAWAYS:**
+•	Gender Disparities in Graduation and Dropout Rates: Analysis of gender percentages among graduates and non-graduates reveals persistent disparities over the years. While the exact magnitude and direction of these disparities may vary, addressing gender gaps in educational attainment remains an ongoing challenge.
+
+•	Trends in Graduation and Dropout Rates Over Time: Examination of graduation and dropout rates across different school years highlights fluctuations and trends in student outcomes. Identifying periods of improvement or decline can inform targeted interventions and resource allocation efforts aimed at improving overall educational outcomes.
+
+•	Seasonal Distribution of Graduations: Analysis of graduation distribution by season indicates a consistent pattern of higher graduations during the spring and summer months. Understanding these seasonal trends can help institutions better plan for ceremonies, allocate resources, and engage with students and alumni.
+
+•	Average Age of Graduates and Dropouts: Tracking the average age of graduates and dropouts over time provides insights into demographic trends and student retention dynamics. Changes in average age may reflect shifts in enrollment patterns, program completion rates, or other factors influencing student outcomes.
+
+•	Impact of External Factors: Consideration of external factors, such as economic conditions or public health crises like the COVID-19 pandemic, is crucial for contextualizing trends in educational data. External events can significantly influence graduation rates, dropout patterns, and other indicators of student success.
+
+•	Strategic Implications for Educational Institutions: The data analysis underscores the importance of strategic planning and data-informed decision-making for educational institutions. Insights derived from the data can guide efforts to improve student retention, enhance support services, and promote equity and inclusion across diverse student populations.
+
+•	Opportunities for Further Research and Analysis: While the provided scripts offer valuable insights, there are opportunities for further research and analysis. Exploring additional variables, conducting longitudinal studies, and employing advanced statistical techniques can deepen our understanding of the complex factors shaping educational outcomes.
+
+•	Overall, the data analysis highlights the multifaceted nature of student success and the importance of adopting a holistic approach to address challenges and promote positive outcomes in education. By leveraging data-driven insights, educational institutions can better support students, foster inclusive learning environments, and drive continuous improvement in educational outcomes.
+
+
 
 **Breakdown of Tasks:**
 
@@ -71,7 +89,7 @@ Analysis Conclusion:
 
 •	Angelica: provide Skyward dataset, graduation rate and dropout rate trends, correlation, and graph
 
-•	Trevor: presentation organization, overview of analysis
+•	Trevor: presentation organization, overview of analysis and data trends
 
 
 **Resources Used:**
