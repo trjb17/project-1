@@ -43,7 +43,7 @@ Question 3
 - How does weather impact graduation rates and dropout rates?
 
 
-**Data Cleaning **
+**Data Cleaning**
 
  Step 1: Import Data
 
@@ -84,7 +84,7 @@ We visually explored and analyzed data to discover patterns, trends, and relatio
 
 - Impact of External Factors
 
-**  RESOURCES:**
+**RESOURCES:**
 
   The resources used to complete this prject are as follows:
 
