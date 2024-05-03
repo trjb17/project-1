@@ -26,6 +26,13 @@ Jorge Torres, Kristopher Melton, Krissina Wells, Angelica Sandel, Trevor Sandova
             
 •	How has COVID impacted graduation numbers, pre and post pandemic?
 
+  Analysis Conclusion:
+
+    Despite expectations of a significant impact on graduation rates during the COVID-19 pandemic, our analysis revealed a surprising trend: while dropout rates increased notably, graduation rates remained relatively stable.
+
+    Several factors may have contributed to this discrepancy. Disruptions in the learning environment, economic hardships, mental health challenges, disparities in access to resources, and limited support systems could have intensified the pressures faced by students, leading to higher dropout rates. Conversely, delayed impacts on graduation rates, changes in institutional policies, and the resilience of students and academic institutions in adapting to remote learning may have mitigated the immediate effects on graduation rates. Understanding these dynamics is crucial for developing targeted interventions to support student retention and success in the face of ongoing challenges posed by the pandemic.
+
+
 •	How does weather impact graduate rates and dropout rates?
 
 
