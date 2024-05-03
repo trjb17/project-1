@@ -61,6 +61,7 @@ Analysis Conclusion:
 
 
 **SUMMARY ANALYSIS & TAKEAWAYS:**
+--
 •	Gender Disparities in Graduation and Dropout Rates: Analysis of gender percentages among graduates and non-graduates reveals persistent disparities over the years. While the exact magnitude and direction of these disparities may vary, addressing gender gaps in educational attainment remains an ongoing challenge.
 
 •	Trends in Graduation and Dropout Rates Over Time: Examination of graduation and dropout rates across different school years highlights fluctuations and trends in student outcomes. Identifying periods of improvement or decline can inform targeted interventions and resource allocation efforts aimed at improving overall educational outcomes.
