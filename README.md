@@ -1,4 +1,4 @@
-#**DIPLOMAS & DETOURS**
+# **DIPLOMAS & DETOURS**
 #project-1
 
 - An Analysis of Graduation and Dropout Trends
@@ -6,7 +6,7 @@
   By: Angelica Sandel, Jorge Torres, Krissy Wells, Kristopher Melton, and Trevor Sandoval
 
 
-# **Data Description**
+#**Data Description**
 
  STEP 1
 
