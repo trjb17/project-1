@@ -40,7 +40,8 @@ Written and Prepared by: Jorge Torres, Kristopher Melton, Krissina Wells, Angeli
 
 Analysis Conclusion: 
 
-By examining the scatter plot, we can see seasonal patterns in graduation rates. Graduations tend to peak during certain months with warmer temperatures. Outliers might result from factors like extreme weather events or changes in academic policies. Other factors can be holidays, people tend to go out of town for family gatherings. We can see how weather conditions influence student withdrawal decisions, around August. For example, before Fall and Winter, if there's a spike in withdrawals during extreme weather events or seasons with unfavorable conditions, it suggests a weather-related impact or holiday family gathering. In conclusion, students tend to plan their withdrawals before Fall & Winter, which can imply the outcome of less graduates compared to the Spring & Summer. 
+    By examining the scatter plot, we can see seasonal patterns in graduation rates. Graduations tend to peak during certain months with warmer temperatures. Outliers might result from factors like extreme weather events or changes in academic policies. Other factors can be holidays, people tend to go out of town for family gatherings. 
+    We can see how weather conditions influence student withdrawal decisions, around August. For example, before Fall and Winter, if there's a spike in withdrawals during extreme weather events or seasons with unfavorable conditions, it suggests a weather-related impact or holiday family gathering. In conclusion, students tend to plan their withdrawals before Fall & Winter, which can imply the outcome of less graduates compared to the Spring & Summer. 
 
 
 
