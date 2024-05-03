@@ -1,11 +1,11 @@
 Project 1 Group 1
 
-Jorge Torres, Kristopher Melton, Krissina Wells, Angelica Sandel
+Jorge Torres, Kristopher Melton, Krissina Wells, Angelica Sandel, Trevor Sandoval
 
 Project Title: Diplomas and Detours: An Analysis of Graduation and Dropout Trends
 
 
-Team Members: Jorge Torres, Kristopher Melton, Krissina Wells, Angelica Sandel
+Team Members: Jorge Torres, Kristopher Melton, Krissina Wells, Angelica Sandel, Trevor Sandoval
 
 
 Project Description:
