@@ -29,3 +29,5 @@ Rough Breakdown of Tasks:
 •	Krissina: pre-post covid trends, exploratory data analysis, create line plot.
 •	Angelica: provide Skyward dataset, graduation rate and dropout rate trends, correlation, and graph
 •	Trevor: presentation organization, overview of analysis
+
+Presentation: https://docs.google.com/presentation/d/1Hmx4B37Kf_qU_2d_xxbEvlFaEzh5tergWCtZsd_oecc/edit?usp=sharing
