@@ -56,7 +56,7 @@ Written and Prepared by: Jorge Torres, Kristopher Melton, Krissina Wells, Angeli
 
 
 
-**Rough Breakdown of Tasks:**
+**Breakdown of Tasks:**
 
 •	Kristopher: merge and clean data set
 
