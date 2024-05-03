@@ -70,7 +70,8 @@ Convert 'Drop Out Withdraw Reason' to categorized labels using regex mappings
 We analyzed trends over time to provide insights into various phenomena, including changes in student behavior, environmental factors, and more. 
 We chose this method to help schools, researchers, and policymakers make informed decisions and predictions based on historical data patterns.
 
-Exploratory Data Analysis 
+Exploratory Data Analysis:
+
 We visually explored and analyzed data to discover patterns, trends, and relationships. 
 The techniques such as pie charts, scatter plots, and box plots to gain insights into the dataset's structure and characteristics.
 
